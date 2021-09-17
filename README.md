@@ -9,3 +9,10 @@ This can be used to satisfy the curiosity of investing money on cryptocurrency o
 For this program to work you do need a API key for the stock market values.
 
 ### https://pro.coinmarketcap.com/
+
+```python
+headers = {
+		'Accepts':'application/json',
+		'X-CMC_PRO_API_KEY': 'INSERT API'
+	}
+```
