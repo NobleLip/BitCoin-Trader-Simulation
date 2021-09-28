@@ -2,7 +2,7 @@
 
 This is a simple program to invest fake money on the crypto market.
 
-This can be used to satisfy the curiosity of investing money on cryptocurrency or even trying to get better at analyzing the crypto market and invest the many it certenty.
+This can be used to satisfy the curiosity of investing money on cryptocurrency or even trying to get better at analyzing the crypto market and after some experience invest your money it certenty.
 
 ## Important 
 
